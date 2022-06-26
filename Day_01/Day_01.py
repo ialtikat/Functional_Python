@@ -12,6 +12,8 @@ Output
 <class 'str'>
 <class 'float'>
 
+#--------------------------------------------------------------------------------------------------------------
+
 a="Python İle Fonksiyonel Programlama"
 print(dir(a))
 
@@ -27,3 +29,14 @@ Output
  'join', 'ljust', 'lower', 'lstrip', 'maketrans', 'partition', 'removeprefix', 'removesuffix',
  'replace', 'rfind', 'rindex', 'rjust', 'rpartition', 'rsplit', 'rstrip', 'split', 'splitlines',
  'startswith', 'strip', 'swapcase', 'title', 'translate', 'upper', 'zfill']
+
+#--------------------------------------------------------------------------------------------------------------
+
+a="String ifade"
+print(help(a.swapcase))
+
+#Output
+#Help on built-in function swapcase:
+
+#swapcase() method of builtins.str instance
+#    Convert uppercase characters to lowercase and lowercase characters to uppercase.
