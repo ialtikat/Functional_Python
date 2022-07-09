@@ -1,3 +1,8 @@
+"""
+    Python ile yapmış olduğum kısa bir örnek.
+"""
+
+
 Ogrenciler=[]
 OgrenciNot=[]
 Ortalama = 0
