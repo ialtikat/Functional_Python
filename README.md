@@ -18,3 +18,4 @@ Ders içeriği;
 - Kısa if-else kullanımı. (Day 5)
 - Pythonda listenin özellikleri ve kullanılan hazır fonksiyonları. (Day 6)
 - For döngüsünün kullanımı ve örnekleri. (Day 7)
+- Döngülerde "break ve continue" kullanımı. For-else mantığı. (Day 8)
