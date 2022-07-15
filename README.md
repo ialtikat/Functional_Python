@@ -20,4 +20,4 @@ Ders içeriği;
 - For döngüsünün kullanımı ve örnekleri. (Day 7)
 - Döngülerde "break ve continue" kullanımı. For-else mantığı. (Day 8)
 - While döngüsünün kullanımı. (Day 9)
-- Metot (def) kullanımı. (Day 10)
+- Metot kullanımı. (Day 10)
