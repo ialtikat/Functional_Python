@@ -21,3 +21,4 @@ Ders içeriği;
 - Döngülerde "break ve continue" kullanımı. For-else mantığı. (Day 8)
 - While döngüsünün kullanımı. (Day 9)
 - Metot kullanımı. (Day 10)
+- Sınıf kullanımı. (Day 11)
