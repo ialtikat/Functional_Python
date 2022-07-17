@@ -22,3 +22,4 @@ Ders içeriği;
 - While döngüsünün kullanımı. (Day 9)
 - Metot kullanımı. (Day 10)
 - Sınıf kullanımı. (Day 11)
+- Random kütüphanesinin kullanımı. (Day 12)
