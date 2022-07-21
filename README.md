@@ -24,3 +24,4 @@ Ders içeriği;
 - Sınıf kullanımı. (Day 11)
 - Random kütüphanesinin kullanımı. (Day 12)
 - Stringler üzerinde işlemler. (Day 12)
+- Math kütüphanesi. (Day 12)
