@@ -26,3 +26,4 @@ Ders içeriği;
 - Stringler üzerinde işlemler. (Day 13)
 - Math kütüphanesi. (Day 14)
 - Tuple (Demet) kullanımı. (Day 15)
+- Kümelerin kullanımı. (Day 16)
