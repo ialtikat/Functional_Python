@@ -27,3 +27,4 @@ Ders içeriği;
 - Math kütüphanesi. (Day 14)
 - Tuple (Demet) kullanımı. (Day 15)
 - Kümelerin kullanımı. (Day 16)
+- Dictionary (sözlük) yapısının kullanımı. (Day 17)
