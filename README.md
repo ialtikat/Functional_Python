@@ -25,4 +25,4 @@ Ders içeriği;
 - Random kütüphanesinin kullanımı. (Day 12)
 - Stringler üzerinde işlemler. (Day 13)
 - Math kütüphanesi. (Day 14)
-- Demetler. (Day 14)
+- Tuple (Demet) kullanımı. (Day 15)
