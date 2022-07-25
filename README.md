@@ -29,3 +29,4 @@ Ders içeriği;
 - Kümelerin kullanımı. (Day 16)
 - Dictionary (sözlük) yapısının kullanımı. (Day 17)
 - Lambda kullanımı. (Day 18)
+- Map kullanımı. (Day 18)
