@@ -28,3 +28,4 @@ Ders içeriği;
 - Tuple (Demet) kullanımı. (Day 15)
 - Kümelerin kullanımı. (Day 16)
 - Dictionary (sözlük) yapısının kullanımı. (Day 17)
+- Lambda kullanımı. (Day 18)
