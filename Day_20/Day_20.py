@@ -3,8 +3,6 @@
     İki farklı listeyi birleştirmek için kullanılır.
     Bir fermuar gibi düşünebiliriz.
 """
-from doctest import OutputChecker
-
 
 x = [1, 2, 3, 4, 5]
 y = ["Bir", "İki", "Üç", "Dört", "Beş"]
