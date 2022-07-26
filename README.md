@@ -31,3 +31,5 @@ Ders içeriği;
 - Lambda kullanımı. (Day 18)
 - Map kullanımı. (Day 19)
 - Zip kullanımı. (Day 20)
+- filter() kullanımı. (Day 21)
+- reduce() kullanımı. (Day 22)
