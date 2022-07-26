@@ -33,3 +33,4 @@ Ders içeriği;
 - Zip kullanımı. (Day 20)
 - Filter() kullanımı. (Day 21)
 - Reduce() kullanımı. (Day 22)
+- Kümelerde birleşim, kesişim, farkı işlemleri. (Day 23)
