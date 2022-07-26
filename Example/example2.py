@@ -28,3 +28,12 @@ print(y)
                1 and 1 = 1
                0 and 0 = 0
 """
+
+
+# Kullanıcı adlarında istenmeyen karakter olan kullanıcıları listeleme.
+sifreler = ["ali123.", "veli!12", "kalem", "kelam", "kamil", "gel.123"]
+a = [i for i in sifreler if "." in i]
+print(a)
+# Output
+# ['ali123.', 'gel.123']
+
